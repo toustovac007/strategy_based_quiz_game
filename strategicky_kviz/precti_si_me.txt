@@ -1,0 +1,25 @@
+Cílem hry je zabíráním sousedících políček a postupnou expanzí buďto
+zabrat dostatečný počet políček pro vítězství (30), nebo zabrat počáteční
+políčko protivníka.
+
+Každý hráč má tři aktivační body, po jejich vyčerpání následuje tah protívníka.
+Aktivací políčka již sousedícího se zabraným políčkem (kliknutím na něj) se zobrazí
+otázka. V případě zadání správné odpovědi v časovém limitu (10s) přejde políčko pod
+kontrolu aktivního hráče.
+
+V případě že hráč zabere 4 pole sousedící se nezabraným, nebo protivníkem kontrolovaným
+hexagonem, pole přijde pod jeho kontrolu bez nutnosti aktivace.
+
+Před publikací silně doporučuji odstranit soubor systems/question_hasher.py protože
+obsahuje data v nezahashované podobě, které nejsou důležité pro běh hry.
+
+Hra obsahuje základní třídy s jedinou instancí jako game - základ, input_handeler -
+převod souřadnic myši po kliknutí na souřadnice pole v hexagonové síti, board -
+soubor políček (tile) a funkcí a hodnot pro generaci a vykreslování hrací
+plochy, renderer - grafické vykreslování, quiz - objekt pseudo popup okna s
+otázkou a odpověďmi (vzniká a zaniká v průběhu programu), timer - časová omezení otázek.
+
+Obsahuje také třídy s více instancemi jako např. player - všeříkající název, nebo
+tile - informace o každém jednotlivém políčku a tak dále...
+
+Pěknou hru.

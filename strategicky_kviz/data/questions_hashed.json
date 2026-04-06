@@ -1,0 +1,782 @@
+[
+  {
+    "question": "Co znamená zkratka CPU?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Program Utility",
+      "Control Processing User"
+    ],
+    "correct_hash": "65f23fb2f58600b4b8f9827f051163a3f1a3010388189223b1c81f92afffd1fe"
+  },
+  {
+    "question": "Jaký jazyk se používá pro stylování webu?",
+    "options": [
+      "HTML",
+      "Python",
+      "CSS",
+      "C++"
+    ],
+    "correct_hash": "36e64f19f57a05c8cd5b6bf7eff72703b4bbab19def7832eb4e686e7fa482eef"
+  },
+  {
+    "question": "Které číslo je binární zápis čísla 5?",
+    "options": [
+      "101",
+      "110",
+      "111",
+      "100"
+    ],
+    "correct_hash": "16dc368a89b428b2485484313ba67a3912ca03f2b2b42429174a4f8b3dc84e44"
+  },
+  {
+    "question": "Co dělá příkaz 'print' v Pythonu?",
+    "options": [
+      "Načítá data",
+      "Vypisuje text",
+      "Maže proměnnou",
+      "Ukončuje program"
+    ],
+    "correct_hash": "05e4078038d27af38fd976ae91011de7118ec929b3ce44fa3021c5ccb5d637cc"
+  },
+  {
+    "question": "Jaký typ dat je číslo 3.14 v Pythonu?",
+    "options": [
+      "int",
+      "str",
+      "float",
+      "bool"
+    ],
+    "correct_hash": "76a7e234dc54e9c605b2cc9fdf71279526150df48c574bdfa69e436e0b3d5c18"
+  },
+  {
+    "question": "Co znamená HTML?",
+    "options": [
+      "Hyper Trainer Marking Language",
+      "Hyper Text Markup Language",
+      "High Text Machine Language",
+      "Hyper Tool Multi Language"
+    ],
+    "correct_hash": "29080b93ee5aa46e8440ee6f7e87a339166878ad568cbb7368d54c8e717af6c5"
+  },
+  {
+    "question": "Který symbol se používá pro komentář v Pythonu?",
+    "options": [
+      "//",
+      "#",
+      "<!-- -->",
+      "/* */"
+    ],
+    "correct_hash": "334359b90efed75da5f0ada1d5e6b256f4a6bd0aee7eb39c0f90182a021ffc8b"
+  },
+  {
+    "question": "Co je proměnná?",
+    "options": [
+      "Typ funkce",
+      "Místo pro uložení hodnoty",
+      "Druh cyklu",
+      "Operátor"
+    ],
+    "correct_hash": "d98cef9810ec5b8cc9647333824e1f9b08ec63f8e11708cae2e5647f89a7d649"
+  },
+  {
+    "question": "Který z těchto jazyků je kompilovaný?",
+    "options": [
+      "Python",
+      "JavaScript",
+      "C++",
+      "HTML"
+    ],
+    "correct_hash": "cedb1bac7efcd7db47e9f2f2250a7c832aba83b410dd85766e2aea6ec9321e51"
+  },
+  {
+    "question": "Co je to IP adresa?",
+    "options": [
+      "Typ souboru",
+      "Identifikátor zařízení v síti",
+      "Programovací jazyk",
+      "Operační systém"
+    ],
+    "correct_hash": "1e25bb3aa83a2d4f0950359769527cd1ae14b30daaf0aebb48cdbbd58f4784c8"
+  },
+  {
+    "question": "K čemu slouží operační systém?",
+    "options": [
+      "Pouze k hraní her",
+      "Správa hardware a software",
+      "Vytváření webů",
+      "Editace obrázků"
+    ],
+    "correct_hash": "a1e56b215388d83ea71eed2705158f2a7a6d09fda00b7b8916ac42cf3764997c"
+  },
+  {
+    "question": "Jaký je výsledek 2**3 v Pythonu?",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "5"
+    ],
+    "correct_hash": "2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3"
+  },
+  {
+    "question": "Co znamená zkratka RAM?",
+    "options": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Run Active Memory",
+      "Rapid Access Module"
+    ],
+    "correct_hash": "ba66fc77ac168995d4a461f694418842c81be9664dcf142f509d3a728e74a66b"
+  },
+  {
+    "question": "Jaký datový typ je True/False?",
+    "options": [
+      "int",
+      "bool",
+      "str",
+      "float"
+    ],
+    "correct_hash": "b760f44fa5965c2474a3b471467a22c43185152129295af588b022ae50b50903"
+  },
+  {
+    "question": "Co dělá funkce len() v Pythonu?",
+    "options": [
+      "Vrací délku",
+      "Sčítá hodnoty",
+      "Tiskne text",
+      "Mazá seznam"
+    ],
+    "correct_hash": "a8ba685955993787a3c9e66a846983a30948e325da49e0c48d9a8acb533c13bf"
+  },
+  {
+    "question": "Co je to loop (cyklus)?",
+    "options": [
+      "Podmínka",
+      "Opakování kódu",
+      "Proměnná",
+      "Chyba"
+    ],
+    "correct_hash": "c11edf70e4828bc271ca150454798ae84e3bcad4dd6d6343fbfbc798691d8c6f"
+  },
+  {
+    "question": "Jaký symbol se používá pro rovnost v Pythonu?",
+    "options": [
+      "=",
+      "==",
+      "!=",
+      "<>"
+    ],
+    "correct_hash": "f16474a9900a44186e87098f5fcb153a1fab2e401e1a6db587168b204761b276"
+  },
+  {
+    "question": "Co je funkce?",
+    "options": [
+      "Typ chyby",
+      "Blok kódu, který lze opakovaně volat",
+      "Proměnná",
+      "Operátor"
+    ],
+    "correct_hash": "ae6e5ebaed3f59f6e60b17f85cd205fc20c9ca98539154d1d40324e6e8029245"
+  },
+  {
+    "question": "Který z těchto je webový prohlížeč?",
+    "options": [
+      "Windows",
+      "Chrome",
+      "Python",
+      "Linux"
+    ],
+    "correct_hash": "9390ef32addf32bfdea786bc1e20679592498068bcbfcd357ea10ab64ea35e47"
+  },
+  {
+    "question": "Co je Git?",
+    "options": [
+      "Programovací jazyk",
+      "Systém pro správu verzí",
+      "Operační systém",
+      "Databáze"
+    ],
+    "correct_hash": "377c5519fa0b779b4ebf8a8ea1e720a0f7afb4931f90514b8876f1c652790739"
+  },
+  {
+    "question": "Co znamená zkratka URL?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Reference Link",
+      "User Resource Location",
+      "Unified Routing Link"
+    ],
+    "correct_hash": "25708852fb27582dd05583c29b4f7bdc970af31d399e4fb0238ed8ba346f1f28"
+  },
+  {
+    "question": "Který jazyk běží v prohlížeči?",
+    "options": [
+      "Python",
+      "C++",
+      "JavaScript",
+      "Java"
+    ],
+    "correct_hash": "eda71746c01c3f465ffd02b6da15a6518e6fbc8f06f1ac525be193be5507069d"
+  },
+  {
+    "question": "Co je API?",
+    "options": [
+      "Typ paměti",
+      "Rozhraní pro komunikaci mezi programy",
+      "Databáze",
+      "Programovací jazyk"
+    ],
+    "correct_hash": "c1e02131390e072596b64dddc33b6193976d41a678c2748f35d1f3f052b1e9b2"
+  },
+  {
+    "question": "Jaký příkaz v Pythonu vytvoří seznam?",
+    "options": [
+      "{}",
+      "[]",
+      "()",
+      "<>"
+    ],
+    "correct_hash": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  {
+    "question": "Co znamená 'bug' v programování?",
+    "options": [
+      "Funkce",
+      "Chyba v kódu",
+      "Typ proměnné",
+      "Editor"
+    ],
+    "correct_hash": "e98113997b1b4c3a02a99eba3fee97096dfe633b382c000fd7cbddc360343851"
+  },
+  {
+    "question": "Co je databáze?",
+    "options": [
+      "Program",
+      "Uložiště dat",
+      "Operační systém",
+      "Typ souboru"
+    ],
+    "correct_hash": "1aabb764b171ae017f42997a28c3e3a00f5a12e11eb72be707bfc175d5f04024"
+  },
+  {
+    "question": "Který příkaz ukončí cyklus v Pythonu?",
+    "options": [
+      "stop",
+      "exit",
+      "break",
+      "end"
+    ],
+    "correct_hash": "14ebe56a5008e7c251101e9e1fdbe281ab0a82bd6fa00a5cef746b9ee0dd31d1"
+  },
+  {
+    "question": "Co je algoritmus?",
+    "options": [
+      "Program",
+      "Postup řešení problému",
+      "Chyba",
+      "Paměť"
+    ],
+    "correct_hash": "ac9727644a640bdd0cefb90b010dca872837469d52370c437227450b5bd68895"
+  },
+  {
+    "question": "Jaký je výsledek 10 // 3 v Pythonu?",
+    "options": [
+      "3.33",
+      "3",
+      "4",
+      "1"
+    ],
+    "correct_hash": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+  },
+  {
+    "question": "Co znamená zkratka SSD?",
+    "options": [
+      "Solid State Drive",
+      "Super Speed Disk",
+      "System Storage Device",
+      "Secure Storage Data"
+    ],
+    "correct_hash": "94095bed92ea02be5ace73cb8cb0864718b803628507887ac7110ddf6ba4e8b4"
+  },
+  {
+    "question": "Co znamená zkratka GPU?",
+    "options": [
+      "Graphics Processing Unit",
+      "General Processing Unit",
+      "Graphical Power Unit",
+      "Global Processing Unit"
+    ],
+    "correct_hash": "e26d590a93d5966aa89c4a358d802bccc8c64c6c2560beacba4db269949cb930"
+  },
+  {
+    "question": "Jaký port používá HTTP?",
+    "options": [
+      "21",
+      "80",
+      "443",
+      "22"
+    ],
+    "correct_hash": "48449a14a4ff7d79bb7a1b6f3d488eba397c36ef25634c111b49baf362511afc"
+  },
+  {
+    "question": "Jaký port používá HTTPS?",
+    "options": [
+      "80",
+      "21",
+      "443",
+      "25"
+    ],
+    "correct_hash": "6d05621ab7cb7b4fb796ca2ffbe1a141e0d4319d3deb6a05322b9de85d69b923"
+  },
+  {
+    "question": "Jaký datový typ je 'hello' v Pythonu?",
+    "options": [
+      "int",
+      "str",
+      "bool",
+      "list"
+    ],
+    "correct_hash": "8c25cb3686462e9a86d2883c5688a22fe738b0bbc85f458d2d2b5f3f667c6d5a"
+  },
+  {
+    "question": "Co dělá funkce input() v Pythonu?",
+    "options": [
+      "Vypisuje text",
+      "Načítá vstup od uživatele",
+      "Ukončuje program",
+      "Importuje modul"
+    ],
+    "correct_hash": "374c5837d4396c72907c92e28276c29ff14a5dd455c0e4ffcd322cc4787569b2"
+  },
+  {
+    "question": "Jaký symbol se používá pro AND v Pythonu?",
+    "options": [
+      "&&",
+      "&",
+      "and",
+      "&&&"
+    ],
+    "correct_hash": "6201111b83a0cb5b0922cb37cc442b9a40e24e3b1ce100a4bb204f4c63fd2ac0"
+  },
+  {
+    "question": "Jaký symbol se používá pro OR v Pythonu?",
+    "options": [
+      "||",
+      "|",
+      "or",
+      "++"
+    ],
+    "correct_hash": "7175517a370b5cd2e664e3fd29c4ea9db5ce17058eb9772fe090a5485e49dad6"
+  },
+  {
+    "question": "Co znamená SQL?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Standard Question Language",
+      "System Query Logic"
+    ],
+    "correct_hash": "f856d4e1f38536b706899828d182232d6888559ced2940df5750fcbd8e5d2fe0"
+  },
+  {
+    "question": "K čemu slouží CSS?",
+    "options": [
+      "Logika programu",
+      "Stylování webu",
+      "Databáze",
+      "Backend"
+    ],
+    "correct_hash": "9348b6a36345bd607196d72c12e3bd50e0bc9289056e87a04833e7fc2a506548"
+  },
+  {
+    "question": "Co je to server?",
+    "options": [
+      "Klient",
+      "Počítač poskytující služby",
+      "Programovací jazyk",
+      "Databáze"
+    ],
+    "correct_hash": "1320dfba034017efc4326e899720b77431043333581d29db8c7ec55327ead751"
+  },
+  {
+    "question": "Co je to klient?",
+    "options": [
+      "Server",
+      "Zařízení využívající služby",
+      "Operační systém",
+      "Databáze"
+    ],
+    "correct_hash": "4a8e10981021248f7b95ed173e4a039ef7101ad717e4eea24f290fa26c17fcdb"
+  },
+  {
+    "question": "Jaký operátor se používá pro násobení v Pythonu?",
+    "options": [
+      "x",
+      "*",
+      "×",
+      "%"
+    ],
+    "correct_hash": "684888c0ebb17f374298b65ee2807526c066094c701bcc7ebbe1c1095f494fc1"
+  },
+  {
+    "question": "Co znamená JSON?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Source Open Network",
+      "Joint System Object Node",
+      "Java Standard Output Name"
+    ],
+    "correct_hash": "bbc19bd547afe86fba41799885bb015bbce07181e90a031e8f16d6b38c77e531"
+  },
+  {
+    "question": "Jaký typ kolekce je seznam v Pythonu?",
+    "options": [
+      "immutable",
+      "mutable",
+      "constant",
+      "static"
+    ],
+    "correct_hash": "1da805f3d03b12871eb8d6fac747d4dd62d488513a2ca5711894ed87adbccb2c"
+  },
+  {
+    "question": "Co dělá metoda append()?",
+    "options": [
+      "Mazání položky",
+      "Přidání položky do seznamu",
+      "Třídění seznamu",
+      "Kopírování seznamu"
+    ],
+    "correct_hash": "720b3c6ac087243b311698350527c21071c8ae48f3c7640d7fba29451ba111f7"
+  },
+  {
+    "question": "Jaký je výsledek 5 % 2?",
+    "options": [
+      "2.5",
+      "2",
+      "1",
+      "0"
+    ],
+    "correct_hash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "question": "Co znamená OOP?",
+    "options": [
+      "Object Oriented Programming",
+      "Open Object Program",
+      "Original Output Process",
+      "Object Output Protocol"
+    ],
+    "correct_hash": "132e7766f7a499c33c4b9c6a4fd28b5b1aabf1c0bab34bf8066f2a040d98504d"
+  },
+  {
+    "question": "Co je třída (class)?",
+    "options": [
+      "Proměnná",
+      "Šablona pro objekty",
+      "Funkce",
+      "Chyba"
+    ],
+    "correct_hash": "f06f2a06c095ded5d98571569e41972c4b4047a16b5da6bfbe1c9f11e2a619fb"
+  },
+  {
+    "question": "Co je objekt?",
+    "options": [
+      "Instance třídy",
+      "Typ chyby",
+      "Proměnná",
+      "Cyklus"
+    ],
+    "correct_hash": "7f123accec5b1f8a15e171b94fcb615189c0322c5db7f65443b56b0c772a87f5"
+  },
+  {
+    "question": "Jaký příkaz importuje modul v Pythonu?",
+    "options": [
+      "include",
+      "import",
+      "require",
+      "using"
+    ],
+    "correct_hash": "d942f64886578d8747312e368ed92d9f6b2a8d45556f0f924e2444fe911d15af"
+  },
+  {
+    "question": "Co znamená LAN?",
+    "options": [
+      "Local Area Network",
+      "Large Area Network",
+      "Long Access Node",
+      "Local Access Network"
+    ],
+    "correct_hash": "3791b75ffcefcdc597670d25aade921973666c1cdfc14ebf743ce0f197e8fdd6"
+  },
+  {
+    "question": "Co znamená WAN?",
+    "options": [
+      "Wide Area Network",
+      "Web Access Node",
+      "Wireless Area Network",
+      "Wide Access Node"
+    ],
+    "correct_hash": "6b3f8e3328a32a3e6ff05f58dd0908943dd06d119841ffd1b81fe6dfbb911181"
+  },
+  {
+    "question": "Jaký je výsledek 7 > 3?",
+    "options": [
+      "True",
+      "False",
+      "Error",
+      "None"
+    ],
+    "correct_hash": "b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b"
+  },
+  {
+    "question": "Jaký je výsledek 3 == 4?",
+    "options": [
+      "True",
+      "False",
+      "None",
+      "Error"
+    ],
+    "correct_hash": "fcbcf165908dd18a9e49f7ff27810176db8e9f63b4352213741664245224f8aa"
+  },
+  {
+    "question": "Co dělá break?",
+    "options": [
+      "Pokračuje cyklus",
+      "Ukončí cyklus",
+      "Restartuje cyklus",
+      "Přeskočí iteraci"
+    ],
+    "correct_hash": "5a477efb95aa7878523d8d5569c8936a7e0f32cbcff906fd385defaa85484ff1"
+  },
+  {
+    "question": "Co dělá continue?",
+    "options": [
+      "Ukončí program",
+      "Přeskočí iteraci",
+      "Zastaví cyklus",
+      "Restartuje cyklus"
+    ],
+    "correct_hash": "55762c218e193fde261f98674c29391cd80264deb90b6a83b3cca993c4348547"
+  },
+  {
+    "question": "Jaký je výsledek len('abc')?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correct_hash": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+  },
+  {
+    "question": "Co je dictionary v Pythonu?",
+    "options": [
+      "Seznam",
+      "Kolekce klíč-hodnota",
+      "Řetězec",
+      "Číslo"
+    ],
+    "correct_hash": "0370a07c9ddeec5c0679f9817248222f71359e713088645bc88e865900f1e78e"
+  },
+  {
+    "question": "Jaký symbol používá dictionary?",
+    "options": [
+      "[]",
+      "{}",
+      "()",
+      "<>"
+    ],
+    "correct_hash": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+  },
+  {
+    "question": "Co znamená IDE?",
+    "options": [
+      "Integrated Development Environment",
+      "Internal Data Engine",
+      "Input Device Engine",
+      "Integrated Debug Engine"
+    ],
+    "correct_hash": "727c729c79018344283559ee3c480753fffc13bfe919eb2a5a87237355596e9f"
+  },
+  {
+    "question": "Co je compiler?",
+    "options": [
+      "Překladač kódu",
+      "Editor",
+      "Debugger",
+      "Databáze"
+    ],
+    "correct_hash": "68bce766ce55f0cbc00271f1404cb411586e28893dd52dbb16e1d26a2c57072d"
+  },
+  {
+    "question": "Co je interpreter?",
+    "options": [
+      "Překládá kód za běhu",
+      "Editor",
+      "Server",
+      "Database"
+    ],
+    "correct_hash": "6afc5aaef32d1ad764abdac95a5b0d88679a8ab3af830a7b639f1ce7add7153c"
+  },
+  {
+    "question": "Co znamená HTTP?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Transfer Text Protocol",
+      "Hyper Tool Transfer Program",
+      "Home Transfer Text Protocol"
+    ],
+    "correct_hash": "1ce579b389b2d306c0767dd6088c8501989239b73e66b2d1076d373d431928ac"
+  },
+  {
+    "question": "Co znamená HTTPS?",
+    "options": [
+      "Secure HTTP",
+      "Simple HTTP",
+      "System HTTP",
+      "Static HTTP"
+    ],
+    "correct_hash": "9cda6e7debe9527652ac51ae43fade4d3ccab5168f4efb72a098e86e26096416"
+  },
+  {
+    "question": "Jaký je výsledek 4 + 5 * 2?",
+    "options": [
+      "18",
+      "14",
+      "13",
+      "10"
+    ],
+    "correct_hash": "8527a891e224136950ff32ca212b45bc93f69fbb801c3b1ebedac52775f99e61"
+  },
+  {
+    "question": "Jaký je výsledek (4 + 5) * 2?",
+    "options": [
+      "18",
+      "14",
+      "13",
+      "10"
+    ],
+    "correct_hash": "4ec9599fc203d176a301536c2e091a19bc852759b255bd6818810a42c5fed14a"
+  },
+  {
+    "question": "Co je boolean?",
+    "options": [
+      "Číslo",
+      "True/False",
+      "Text",
+      "Seznam"
+    ],
+    "correct_hash": "10013cd9cf9d5b18b9aa494126b0371a751bd00dc3d6c7e480baea11671c9d8c"
+  },
+  {
+    "question": "Jaký příkaz vypíše proměnnou x?",
+    "options": [
+      "echo x",
+      "print(x)",
+      "output x",
+      "write x"
+    ],
+    "correct_hash": "a6794f6e727657a32f6157b080160ce3ee9ac935d200e6e5df8397265c281f9a"
+  },
+  {
+    "question": "Co znamená loop while?",
+    "options": [
+      "Cyklus s podmínkou",
+      "Nekonečný cyklus vždy",
+      "Funkce",
+      "Proměnná"
+    ],
+    "correct_hash": "4dd4b152afbd2378fa7d6cd6b89259c15331adacf5f637caa787365be105e601"
+  },
+  {
+    "question": "Co znamená loop for?",
+    "options": [
+      "Cyklus přes kolekci",
+      "Podmínka",
+      "Proměnná",
+      "Funkce"
+    ],
+    "correct_hash": "c4139513499fcfaef0467e403ea3919979a617dd38fecf2f667efd8a6f92b811"
+  },
+  {
+    "question": "Co je index v seznamu?",
+    "options": [
+      "Hodnota",
+      "Pozice prvku",
+      "Typ dat",
+      "Funkce"
+    ],
+    "correct_hash": "2602e2cfe1856a456519570e65993308edce65a38ea1e18c29636c3e9d8f8bc5"
+  },
+  {
+    "question": "Jaký je první index v Pythonu?",
+    "options": [
+      "1",
+      "0",
+      "-1",
+      "2"
+    ],
+    "correct_hash": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+  },
+  {
+    "question": "Co znamená None?",
+    "options": [
+      "0",
+      "Prázdná hodnota",
+      "False",
+      "Error"
+    ],
+    "correct_hash": "ed42e11460fa2cefdeb11f04f7c21d746bc526d439f4dd51b418000014007c46"
+  },
+  {
+    "question": "Co dělá funkce type()?",
+    "options": [
+      "Vrací typ proměnné",
+      "Mění typ",
+      "Maže typ",
+      "Vytváří typ"
+    ],
+    "correct_hash": "6958f7d7124b846e74e6d10bc465e69e938886d6e9404f93f336a8a26cb72e51"
+  },
+  {
+    "question": "Jaký je výsledek 10 / 2?",
+    "options": [
+      "5",
+      "5.0",
+      "4",
+      "2"
+    ],
+    "correct_hash": "a19a1584344c1f3783bff51524a5a4b86f2cc09356c9dbfb6af9cd236e314362"
+  },
+  {
+    "question": "Jaký je výsledek 10 // 2?",
+    "options": [
+      "5",
+      "5.0",
+      "4",
+      "2"
+    ],
+    "correct_hash": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+  },
+  {
+    "question": "Co je string?",
+    "options": [
+      "Číslo",
+      "Text",
+      "Boolean",
+      "Seznam"
+    ],
+    "correct_hash": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1"
+  },
+  {
+    "question": "Jaký znak ukončuje příkaz v Pythonu?",
+    "options": [
+      ";",
+      ".",
+      "nic",
+      ":"
+    ],
+    "correct_hash": "0e1733efb669979a709f05ba0a8d2725095193cf81fd05b75b7cefe5c48e03f9"
+  }
+]
