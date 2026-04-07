@@ -164,3 +164,11 @@ class Renderer:
             self.screen.get_width() - blue_text.get_width() - 20,
             20
         ))
+
+    def draw_current_player(self, screen, current_player, sw, sh):
+        font = pygame.font.SysFont(None, 40)
+        text = f"Na tahu: {current_player.color}"
+        color = (255,0,0) if current_player.color == "red" else (0,0,255)# např. (255,0,0)
+
+        rendered = font.render(text, True, color)
+        screen.blit(rendered, (floor(sw/6 * 5 + 20),floor(sh*0.8)))
