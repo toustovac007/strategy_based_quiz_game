@@ -17,6 +17,8 @@ class Game:
         pygame.init()
         info = pygame.display.Info()
         screen_width, screen_height = info.current_w, info.current_h
+        self.screen_width = screen_width
+        self.screen_height = screen_height
         screen_shrink = 0.93
         self.screen = pygame.display.set_mode((screen_width, screen_height * screen_shrink))
         pygame.display.set_caption("Hex Quiz Strategy")
@@ -109,6 +111,8 @@ class Game:
         else:
             self.renderer.draw(self.turn_manager.actions_left)
             self.renderer.draw_quiz_popup(self.quiz_manager)
+            self.renderer.draw_current_player(self.screen, self.turn_manager.get_current_player(), self.screen_width, self.screen_height)
+
 
         pygame.display.flip()
         self.clock.tick(60)
